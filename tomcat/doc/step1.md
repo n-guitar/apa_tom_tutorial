@@ -28,7 +28,7 @@ root@8e9e8d5491b8:/usr/local/tomcat/webapps# exit
 ### ブラウザ確認
 http://localhost:8080/sample   
 にアクセス以下のように表示される
-![](image/tomcat1.png)
+![](../image/tomcat1.png)
 
 ### 以下参考
 containerの停止&削除

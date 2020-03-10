@@ -26,7 +26,7 @@ http://localhost:8080/sample1/loop.jsp
 
 http://localhost:8080/sample1/date.jsp   
 にアクセス以下のように表示される
-![](image/tomcat2.png)
+![](../image/tomcat2.png)
 
 ### 以下参考
 containerの停止&削除
