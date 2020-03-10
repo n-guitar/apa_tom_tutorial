@@ -38,7 +38,8 @@ $ exit
 ```
 
 ### ブラウザ確認
-http://localhost:8080/sample2/loop.jsp
+http://localhost:8080/sample2/loop.jsp   
+
 http://localhost:8080/sample2/date.jsp   
 にアクセス以下のように表示される
 ![](image/tomcat2.png)
